@@ -3,3 +3,4 @@ dash_bootstrap_components==1.4.2
 gunicorn
 pandas
 plotly==5.16.1
+openpyxl
